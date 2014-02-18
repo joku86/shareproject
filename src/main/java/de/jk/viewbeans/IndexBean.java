@@ -11,6 +11,7 @@ import javax.faces.bean.SessionScoped;
 @SessionScoped
 public class IndexBean implements Serializable {
  //changed
+//	und noch was
         private static final long serialVersionUID = 1L;
  
         private String name;
